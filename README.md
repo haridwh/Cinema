@@ -2,16 +2,16 @@
 
 > A progressive Web application for searching movie
 <p>
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-1.jpg" width="360" height="640">
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-2.jpg" width="360" height="640">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-1.jpg" width="360" height="640">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-2.jpg" width="360" height="640">
 </p>
 <p>
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-3.jpg" width="360" height="640">
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-4.jpg" width="360" height="640">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-3.jpg" width="360" height="640">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-4.jpg" width="360" height="640">
 </p>
 <p>
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-5.png" width="640" height="360">
-<img src="https://github.com/sk-day/Cinema/blob/master/screenshots/ss-6.png" width="640" height="360">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-5.png" width="640" height="360">
+<img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-6.png" width="640" height="360">
 </p>
 ## Build Setup
 
