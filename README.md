@@ -1,6 +1,6 @@
-# cinema
+# Cinema
 
-> A progressive Web application for searching movie
+> A progressive web application for searching movie sort by now playing, upcoming, popular, and top rated. Powered by themoviedb.org
 <p>
 <img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-1.jpg" width="360" height="640">
 <img src="https://github.com/sk-day/Cinema/blob/master/screenshot/ss-2.jpg" width="360" height="640">
@@ -18,7 +18,18 @@
 ``` bash
 # install dependencies
 npm install
+```
 
+Create a src/service/service.js file:
+``` javascript
+export default {
+  BASE_URL: 'https://api.themoviedb.org/3/movie',
+  POSTER_URL: 'https://image.tmdb.org/t/p/w500/',
+  API_KEY: 'YOUR_API_KEY'
+}
+```
+
+``` bash
 # serve with hot reload at localhost:8080
 npm run dev
 
